@@ -1,0 +1,3 @@
+name	formula	smiles	adduct_plus	adduct_minus	ms_file	ms2_reference_tsv
+LGD4033	C14 H12 F6 N2 O	C1CC(N(C1)C2=CC(=C(C=C2)C#N)C(F)(F)F)C(C(F)(F)F)O	H	H	input/LGD_DIA_peak-picked.mzML	
+	
